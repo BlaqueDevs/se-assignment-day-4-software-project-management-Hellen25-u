@@ -9,12 +9,10 @@ Effective cost control helps to maintain financial stability,Prevents Scope Cree
 To prevent budget overruns the following strategies can be employed: Establishing a contigency fund,Detailed Project Planning,track costs inreal time,Regular Financial Reviews,resource allocation and risk management.By applying these strategies, project managers can maintain control over costs and avoid budget overruns. Effective cost control enables the software project to be completed within financial constraints while delivering the desired outcomes, which is key to its success.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 1. Approach to Development:
-Waterfall:
-Waterfall follows a linear and sequential approach. Each phase of the project must be completed before moving to the next one.
+Waterfall:Waterfall follows a linear and sequential approach. Each phase of the project must be completed before moving to the next one.
 The typical phases include Requirements, Design, Implementation, Verification, and Maintenance.
 It is a plan-driven methodology with a structured and rigid flow, and once a phase is completed, it’s difficult to go back to a previous phase.
-Agile:
-Agile is an iterative and incremental approach. Development is done in small, manageable segments known as sprints (typically 1–4 weeks).
+Agile:Agile is an iterative and incremental approach. Development is done in small, manageable segments known as sprints (typically 1–4 weeks).
 Focuses on continuous collaboration, feedback, and improvement. Agile emphasizes adaptability to changes throughout the project lifecycle.
 Agile follows a flexible, adaptive model, where planning and execution are done iteratively, allowing for regular adjustments based on feedback or changing requirements.
 2. Project Planning and Requirements:
